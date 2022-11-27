@@ -7,3 +7,5 @@ line from user2
 some change
 some new feature 456
 line from user 1 - lesson about rebase
+some new feature
+squash

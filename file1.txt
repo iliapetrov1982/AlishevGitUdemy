@@ -5,5 +5,5 @@ fix bug
 line from user1
 line from user2
 some change
-some new feature
+some new feature 456
 line from user 1 - lesson about rebase

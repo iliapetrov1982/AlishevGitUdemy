@@ -8,3 +8,4 @@ some change
 some new feature 456
 some new feature 123
 line from user 1 - lesson about rebase
+cherry-pick

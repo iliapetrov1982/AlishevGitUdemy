@@ -4,5 +4,5 @@ sssdsdsdsds
 dwdfdfsf
 from another repo
 line from user2
-critical bug fix
+critical bug fix 456
 line from user 2 - lesson about rebase

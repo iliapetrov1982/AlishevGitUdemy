@@ -5,3 +5,4 @@ dwdfdfsf
 from another repo
 line from user2
 critical bug fix
+line from user 2 - lesson about rebase
